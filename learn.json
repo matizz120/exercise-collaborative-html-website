@@ -2,7 +2,7 @@
 	"status": "published",
 	"title" : "Building a website collaborative",
 	"slug" : "collaborative-html-website",
-	"duration" : 3,
+	"duration" : 4,
 	"difficulty": "easy",
 	"preview": "https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/preview.gif?raw=true",
 	"technologies": ["html", "css", "git", "github"],
