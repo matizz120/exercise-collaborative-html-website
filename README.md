@@ -1,38 +1,37 @@
-# Making a website as a team (Git collabotation)
+# Vietnes veidošana kā komanda (Git sadarbība)
 
-Practice your skills in GIT while developing a typical website.
+Izmantojiet savas prasmes GIT, izstrādājot tipisku vietni.
 
-Each student works on a different file, for a different part of the website and the most senior can work as Team Leader (for integration and deployment), unless the teacher prefers to be the team leader of the whole class. The Html-Template-Engine library will take care of putting all the pieces together.
+Katrs students strādā pie cita faila, citā vietnes daļā, un vecākais var strādāt kā komandas vadītājs (integrācijai un izvietošanai), ja vien skolotājs nevēlas būt visas klases komandas vadītājs. Html-Template-Engine bibliotēka parūpēsies par visu gabalu salikšanu.
 
-## 📝 Instructions
+## 📝 Norādījumi
 
-<img align="right" height="400" src="https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/website1/designs/guide.jpg?raw=true" />
+<img align = "right" height = "400" src = "https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/website1/designs/guide.jpg?raw=true "/>
 
-1. The Team Leader should fork this repository on github.com and [invite other collaborators to the repo](https://github.com/breatheco-de/exercise-git-collabration/blob/master/iOBmU5zYqA.gif).
+1. Komandas vadītājam vajadzētu izveidot šo krātuvi vietnē github.com un [uzaicināt citus līdzstrādniekus uz repo] (https://github.com/breatheco-de/exercise-git-collabration/blob/master/iOBmU5zYqA.gif).
 
-2. We are going to be building [this design](https://raw.githubusercontent.com/breatheco-de/exercise-collaborative-html-website/master/website1/designs/thumb.jpg), and [this is how you can split with the students](https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/website1/designs/guide.jpg?raw=true)
+2. Mēs veidosim [šo dizainu] (https://raw.githubusercontent.com/breatheco-de/exercise-collaborative-html-website/master/website1/designs/thumb.jpg), un [tas ir kā jūs varat dalīties ar studentiem] (https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/website1/designs/guide.jpg?raw=true)
 
-3. Each contributor will have to clone the new forked repository and develop one piece of the website you have chosee, each project is divided in pieces inside its **templates/** directory.
+3. Katram līdzstrādniekam būs jāklonē jaunā dakšu krātuve un jāizstrādā viena vietne, kuru esat izvēlējies, katrs projekts ir sadalīts gabalos tās ** veidņu / ** direktorijā.
 
-4. When each team member finishes, they have to commit and push to the forked repository.
+4. Kad katrs komandas dalībnieks ir pabeidzis darbu, viņam ir jāapņemas un jāpaspēj uz dakšu krātuvi.
 
-## 💻 Run the website
+## 💻 Palaidiet vietni
 
-In order to watch the website live run the following command:
+Lai skatītos vietni tiešraidē, izpildiet šādu komandu:
 
-```bash
-$ npx browser-sync start -s -w
-```
+"bash
+$ npx pārlūks-sinhronizācijas sākums -w
+""
 
-## Deploy the website
+## Izvietojiet vietni
 
-Use Vercel, Netlify or Github pages to deploy the website to the team URL (for example: `https://mysuperteam.zeit.sh`).
+Izmantojiet Vercel, Netlify vai Github lapas, lai vietni izvietotu komandas URL (piemēram: “https: // mysuperteam.zeit.sh”).
 
-## Delivery
+## Piegāde
 
-Everyone delivers the same repo as solution.
+Visi piegādā to pašu repo kā risinājumu.
 
-## Complementary info
+## Papildinformācija
 
-The [Html-Template-Engine library](https://github.com/alesanchezr/html-template-engine) is being used as template engine for building the landing page.
-
+[Html-Template-Engine bibliotēka] (https://github.com/alesanchezr/html-template-engine) tiek izmantota kā veidņu dzinējs, lai izveidotu galveno lapu.
